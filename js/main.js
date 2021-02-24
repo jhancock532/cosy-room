@@ -1,4 +1,4 @@
-import Stats from "./Stats.min.js"; 
+//import Stats from "./Stats.min.js"; 
 
 //Dat.GUI parameters
 let params = { 
